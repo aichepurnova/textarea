@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/textarea/static/js/main.e847d186.js",
+    "static/js/453.461579f8.chunk.js": "/textarea/static/js/453.461579f8.chunk.js",
+    "index.html": "/textarea/index.html",
+    "main.e847d186.js.map": "/textarea/static/js/main.e847d186.js.map",
+    "453.461579f8.chunk.js.map": "/textarea/static/js/453.461579f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e847d186.js"
+  ]
+}
